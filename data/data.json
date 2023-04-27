@@ -1,0 +1,30 @@
+[
+  {
+    "id": 216391831282917,
+    "category": "Fruits",
+    "productName": "Apple",
+    "price": 100,
+    "colors": ["Red","Green"]
+  },
+  {
+    "id": 216391831282916,
+    "category": "Fruits",
+    "productName": "Orange",
+    "price": 200,
+    "colors": ["orange","green"]
+  },
+  {
+    "id": 216391831282915,
+    "category": "Veg",
+    "productName": "Drum Stick",
+    "price": 50,
+    "colors": ["green"]
+  },
+  {
+    "id": 216391831282914,
+    "category": "Fruits",
+    "productName": "Banana",
+    "price": 200,
+    "colors": ["yellow","red","green"]
+  }
+]
